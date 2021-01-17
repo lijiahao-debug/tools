@@ -1,0 +1,6 @@
+*.vscode
+*.dSYM
+a.out
+*.o
+*.txt
+/test
